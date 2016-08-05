@@ -6,9 +6,9 @@ color:
   saturation: 0.5864325440488756
   rhythmicContrast: 0.3114491435699165
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#FFFFFF'
+    - '#040612'
+    - '#707368'
+    - '#B4C8E9'
+    - '#87A243'
 name: Fried Skin
