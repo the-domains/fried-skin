@@ -1,4 +1,3 @@
-layout_spectrum: 0.8762276384513825
 typography_spectrum: 0.34869849239476025
 color:
   brandStrength: 0.1911396887153387
@@ -11,5 +10,7 @@ color:
     - '#707368'
     - '#B4C8E9'
     - '#87A243'
+layout_spectrum: 0.8762276384513825
 name: Fried Skin
 title: Fried Skin
+description: Tastes Good
